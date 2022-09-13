@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacktStudyRoom", "PacktStudyRoom.csproj", "{FA6AF549-04C1-44EF-BA49-4248FC0BF748}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA6AF549-04C1-44EF-BA49-4248FC0BF748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA6AF549-04C1-44EF-BA49-4248FC0BF748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA6AF549-04C1-44EF-BA49-4248FC0BF748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA6AF549-04C1-44EF-BA49-4248FC0BF748}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95666E89-6551-4AC7-92EA-BC649AEA74ED}
+	EndGlobalSection
+EndGlobal
